@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "docker_web_app": "file:",
     "express": "4.21.1"
   }
 }
