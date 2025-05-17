@@ -45,7 +45,7 @@ app.get('/', (req, res) => {
       <body>
         <h1>FS2025 DevOps Container</h1>
         <div class="message">Greetings, traveler! Welcome to our humble server.</div>
-        <p>Dies ist ein Test für den DevOps-Kurs :-D .</p>
+        <p>Dies ist ein Test für den DevOps-Kurs.</p>
         <p>Besucher: ${visitors}</p>
         <div class="secret">${isRingbearer ? 'Ein Server sie zu hosten, ein Code sie zu finden, eine CI/CD-Pipeline sie zu bringen, und in der Produktion sie zu binden.' : 'Sprich "Freund" und tritt ein'}</div>
       </body>
