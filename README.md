@@ -1,4 +1,4 @@
-# 🐳 DevOpsNodeWebApp
+# DevOpsNodeWebApp
 
 > [!NOTE]
 > **Lernjournal Woche 5: Dockerfile und eigene Docker Images erstellen - Eine minimale Node.js Express-Anwendung für Container-Virtualisierung!
@@ -247,7 +247,7 @@ Dieses **DevOpsNodeWebApp-Projekt** demonstriert ein **Basis-Konzept der Contain
 - **Entwicklungsworkflow** mit Docker
 
 > [!IMPORTANT]
-> **Praktische Erfahrung** mit Docker-Containerisierung ist essentiell für moderne DevOps-Workflows. Dieses Projekt bietet eine **solide Grundlage** für komplexere Container-Szenarien.
+> **Praktische Erfahrung** mit Docker-Containerisierung ist essentiell für DevOps-Workflows. Dieses Projekt bietet eine **solide Grundlage** für komplexere Container-Szenarien.
 
 **Was erreicht wurde:**
 - ✅ Eigenes Docker Image erstellt
