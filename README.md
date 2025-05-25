@@ -1,7 +1,7 @@
 # DevOpsNodeWebApp
 
 > [!NOTE]
-> **Lernjournal Woche 5: Dockerfile und eigene Docker Images erstellen - Eine minimale Node.js Express-Anwendung für Container-Virtualisierung!
+> **Lernjournal Woche 5:** Dockerfile und eigene Docker Images erstellen - Eine minimale Node.js Express-Anwendung für Container-Virtualisierung!
 > **Kontext**: Dieses Repository löst **Schritt 8** aus dem [DevOps 04 Containers Lernjournal](https://github.com/blobb3/DevOps-04-Containers.git) - "Dockerfile - Eigene Images erstellen".
 
 ---
