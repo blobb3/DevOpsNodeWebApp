@@ -63,7 +63,7 @@ docker run -p 3001:8080 --name expressapp -d heinejan/node-web-app
 
 ## 📦 Dockerfile verstehen
 
-Das **Herzstück** dieses Projekts ist das Dockerfile, das präzise definiert, wie der Container aufgebaut wird:
+Das **Herzstück** dieses Projekts ist das Dockerfile, welches definiert, wie der Container aufgebaut wird:
 
 ```dockerfile
 FROM node:22.15.0
@@ -78,7 +78,7 @@ COPY . .
 RUN npm install
 
 # Docker Run Command
-EXPOSE 8080
+EXPOSE 3000
 CMD [ "node", "server.js" ]
 ```
 
